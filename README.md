@@ -17,6 +17,6 @@ number of days since the last inspection was conducted before the incident, an e
 
 ## The benefits of practicing this problem by using Machine Learning techniques are as follows:
 
--This challenge will encourage you to apply your Machine Learning skills to build models that can anticipate the severity of any airplane accident
--This challenge will help you enhance your knowledge of classification actively. Classification is one of the basic building blocks of Machine Learning
--We challenge you to build a model that predicts how severe an airplane accident could be.
+- This challenge will encourage you to apply your Machine Learning skills to build models that can anticipate the severity of any airplane accident
+- This challenge will help you enhance your knowledge of classification actively. Classification is one of the basic building blocks of Machine Learning
+- We challenge you to build a model that predicts how severe an airplane accident could be.
